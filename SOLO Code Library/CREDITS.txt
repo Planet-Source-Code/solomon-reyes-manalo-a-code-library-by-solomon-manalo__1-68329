@@ -1,0 +1,40 @@
+
+	Hello!, this is my first submission on PLANET-SOURCE-CODE. This application entitled "SOLO CODE Library"
+is intended to help programmers and the like to manage their codes perfectly. 
+
+This software, unlike any other "code library" found on Planet-source-code. has these features:
+
+	1. Security
+	2. File and folder Creation
+
+             *Once you create a code file and saves it, it will not be saved in microsoft access database or XML
+              but instead it creates its own file with an extension of ".code"
+
+	3. Friendly Interface
+	4. etc.
+
+
+	For any comments or suggestion please email me at solo_sevensix@yahoo.com 
+        or visit me at http://www.solosoftware.co.nr
+
+        PLEASE VOTE FOR THIS APPLICATION
+        PLEASE VOTE FOR THIS APPLICATION
+        PLEASE VOTE FOR THIS APPLICATION
+        PLEASE VOTE FOR THIS APPLICATION
+        PLEASE VOTE FOR THIS APPLICATION
+        PLEASE VOTE FOR THIS APPLICATION
+        PLEASE VOTE FOR THIS APPLICATION
+
+Special Thanks to:
+
+--------------------------------------------------------------------------------------------------
+ SourceCode : McToolBar 1.2
+ Author     : Jim Jose
+
+--------------------------------------------------------------------------------------------------
+
+SourceCode : LaVolpe Button
+Author     : Lavolpe
+
+--------------------------------------------------------------------------------------------------
+	
